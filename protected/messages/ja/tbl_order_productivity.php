@@ -1,0 +1,23 @@
+<?php
+return array (
+	'productivity_id' => '能率ID',
+	'order_process_id' => 'プロセスオーダーID ',
+	'process_id' => 'プロセスID ',
+	'order_item_id' => 'アイテムID',
+	'order_id' => 'オーダーID',
+	'order_detail_id' => '品番 ',
+	'line_id' => 'ラインID ',
+	'line_name' => 'ライン名前',
+	'productivity_quantity' => '産量',
+	'productivity_actual_quantity'=>'産量',
+	'productivity_date' => '記入日',
+	'productivity_comment' => '備考',
+	'admin_id' => '担当者',
+	'admin_report_id'=>'担当者',
+	'QuanLyNangXuat'=>'能率',
+	'MucTieu'=>'ターゲット',
+	'ThucTe'=>'実際',
+	'PhanTram'=>'パーセント',
+	'LuyKe'=>'蓄積',
+	'Ngay'=>'日程',
+);

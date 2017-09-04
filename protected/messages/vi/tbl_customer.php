@@ -1,0 +1,21 @@
+<?php
+return array (
+	'customer_id' => 'ID',
+	'customer_code' => 'Mã KH',
+	'customer_name' => 'Tên giao dịch',
+	'customer_trading_name' => 'Tên đầy đủ',
+	'customer_address' => 'Địa chỉ',
+	'customer_city' => 'Thành phố',
+	'customer_phone' => 'Điện thoại',
+	'customer_website' => 'Website',
+	'customer_country' => 'Quốc gia',
+	'customer_vatcode' => 'Mã số thuế',
+	'customer_pattern_type' => 'Loại rập',
+	'customer_doc_language' => 'Tài liệu',
+	'customer_qc_condition' => 'ĐK kiểm hàng',
+	'customer_payment_method' => 'PTTT',
+	'customer_sample_codition' => 'ĐK hàng mẫu',
+	'customer_notes'=>'Ghi chú thêm',
+	'customer_status' => 'Trạng thái',
+	'admin_id' => 'Nhân viên',
+);

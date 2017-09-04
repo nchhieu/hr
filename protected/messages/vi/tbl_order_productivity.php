@@ -1,0 +1,23 @@
+<?php
+return array (
+	'productivity_id' => 'Năng suất ID',
+	'order_process_id' => 'Đơn hàng quy trình ',
+	'process_id' => 'Quy trình ',
+	'order_item_id' => 'Mã đơn hàng',
+	'order_id' => 'Đơn hàng',
+	'order_detail_id' => 'Mã hàng ',
+	'line_id' => 'Chuyền ',
+	'line_name' => 'Tên chuyền',
+	'productivity_quantity' => 'Số lượng',
+	'productivity_actual_quantity' => 'Số lượng thực tế',
+	'productivity_date' => 'Ngày nhập',
+	'productivity_comment' => 'Ghi chú',
+	'admin_id' => 'Nhân viên',
+	'admin_report_id'=>'Nhân viên báo cáo',
+	'QuanLyNangXuat'=>'Quản lý năng xuất',
+	'MucTieu'=>'Mục tiêu',
+	'ThucTe'=>'Thực tế',
+	'PhanTram'=>'%',
+	'LuyKe'=>'Lũy kế',
+	'Ngay'=>'Ngày',
+);
