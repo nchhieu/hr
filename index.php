@@ -11,8 +11,4 @@ defined('YII_TRACE_LEVEL') or define('YII_TRACE_LEVEL',3);
 require_once($yii);
 Yii::createWebApplication($config)->run();
 echo 'Hello';
-<<<<<<< HEAD
-=======
-
-echo 'Hello3';
->>>>>>> 05318661f4c90b123a3e14ee0e4e83c6becf308c
+echo 'Hello 2';
